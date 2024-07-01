@@ -1796,10 +1796,10 @@ button {
   color: #FF7417;
 }
 .nav-foot__cont ul li.ico-nav3 {
-  background: url("../images/ico_chart.svg") no-repeat center 0 / 2.4rem;
+  background: url("../images/ico_aichat.svg") no-repeat center 0 / 2.4rem;
 }
 .nav-foot__cont ul li.ico-nav3.active a {
-  background: url("../images/ico_chart_active.svg") no-repeat center 0 / 2.4rem;
+  background: url("../images/ico_aichat_active.svg") no-repeat center 0 / 2.4rem;
   color: #FF7417;
 }
 .nav-foot__cont ul li.ico-nav4 {
