@@ -702,6 +702,9 @@ legend,
 .pb170 {
   padding-bottom: 17.0rem;
 }
+.pb200 {
+  padding-bottom: 20.0rem;
+}
 
 .px0 {
   padding: 0;
@@ -2532,7 +2535,7 @@ button {
   position: fixed;
   left: 50%;
   transform: translateX(-50%);
-  bottom: 2.6rem;
+  bottom: 7.5rem;
 }
 .check-menu-box {
   margin-top: 1.4rem;
@@ -3085,7 +3088,7 @@ input[type="checkbox"]:checked + label:before {
 .tab-type2 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  max-width: 250px;
+  max-width: 275px;
   margin: 0 auto;
 }
 .tab-type2 a {
